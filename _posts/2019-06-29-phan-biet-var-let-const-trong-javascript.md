@@ -31,7 +31,7 @@ console.log(x); // Throws a ReferenceError: x is not defined outside a.
   var x = 1;
   let y = 2;
 
-  console.log(this.x); // 1;
+  console.log(this.x); // 1
   console.log(this.y); // undefined
 ```
 Dùng `var` khai báo một biến còn có thêm tính chất hoisting<br>
