@@ -1,6 +1,7 @@
 ---
 title: Phân biệt var, let, const trong Javascript
 date: 2019-06-29
+excerpt: Phân biệt chi tiết các từ khoá khai báo biến var, let, const trong Javascript
 categories:
   - javascript
 tags:
