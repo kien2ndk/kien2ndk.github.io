@@ -1,12 +1,12 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name                    = "minimal-mistakes-jekyll"
-  spec.version                 = "4.16.4"
-  spec.authors                 = ["Michael Rose"]
+  spec.name                    = "hikiennguyen"
+  spec.version                 = "1.0.0"
+  spec.authors                 = ["Kien Nguyen"]
 
   spec.summary                 = %q{A flexible two-column Jekyll theme.}
-  spec.homepage                = "https://github.com/mmistakes/minimal-mistakes"
+  spec.homepage                = "https://kiennguyen.dev"
   spec.license                 = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
